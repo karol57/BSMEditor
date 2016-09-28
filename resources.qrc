@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/24x24/intl">
+        <file alias="flag-gb.ico">icons/24x24/intl/flag-gb.ico</file>
+        <file alias="flag-de.ico">icons/24x24/intl/flag-de.ico</file>
+        <file alias="flag-es.ico">icons/24x24/intl/flag-es.ico</file>
+        <file alias="flag-fr.ico">icons/24x24/intl/flag-fr.ico</file>
+        <file alias="flag-it.ico">icons/24x24/intl/flag-it.ico</file>
+        <file alias="flag-nl.ico">icons/24x24/intl/flag-nl.ico</file>
+        <file alias="flag-pt.ico">icons/24x24/intl/flag-pt.ico</file>
+    </qresource>
+    <qresource prefix="/32x32/actions">
+        <file alias="document-open-5.ico">icons/32x32/actions/document-open-5.ico</file>
+        <file alias="application-exit-4.ico">icons/32x32/actions/application-exit-4.ico</file>
+        <file alias="document-open-recent.ico">icons/32x32/actions/document-open-recent.ico</file>
+        <file alias="document-close-4.ico">icons/32x32/actions/document-close-4.ico</file>
+        <file alias="document-save-5.ico">icons/32x32/actions/document-save-5.ico</file>
+        <file alias="document-save-as-5.ico">icons/32x32/actions/document-save-as-5.ico</file>
+        <file alias="language-add.ico">icons/32x32/actions/language-add.ico</file>
+        <file alias="language-remove.ico">icons/32x32/actions/language-remove.ico</file>
+        <file alias="list-add-4.ico">icons/32x32/actions/list-add-4.ico</file>
+        <file alias="list-remove-4.ico">icons/32x32/actions/list-remove-4.ico</file>
+    </qresource>
+</RCC>
